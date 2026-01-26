@@ -1,0 +1,5 @@
+{
+  "appId": "com.fraud.detector",
+  "appName": "fraud-app",
+  "webDir": "dist"
+}
